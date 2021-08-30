@@ -6,5 +6,6 @@
       },
     "defaultCommandTimeout": 6000,
     "experimentalSessionSupport": true,
-    "experimentalStudio": true
+    "experimentalStudio": true,
+    "projectId": "kv6q1q"
 }
